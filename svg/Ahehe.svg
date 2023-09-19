@@ -9,10 +9,10 @@
 					align-items: center;
 					justify-content: center;
 					margin: 0;
-					width: 100%;
-					height: 150px;
+					width: 200%;
+					height: 250px;
           background-color: #20232A;
-					border-radius: 10px;
+					border-radius: 20px;
 					color: white;
           line-height: 1.6;
 				}
@@ -24,8 +24,8 @@
         }
 			</style>
 			<div class="container">
-        <div class="quotes-eng">"True love is what? It's the most beautiful dance in your life! It's when we truly want to be with someone and make that person happy. It doesn't depend on how many times you say "I love you" to each other. It just requires us to never stop trusting and trying, to be patient and grow together, to have enough courage and sincerity in this beautiful dance!"</div>
-        <div class="quotes-vi">"Tình yêu đích thực là gì? Đó là điệu nhảy đẹp nhất cuộc đời bạn! Là khi chúng ta thực sự muốn ở bên cạnh 1 ai đó và làm người đó hạnh phúc. Nó ko phụ thuộc bạn nói Anh yêu em hay là Em yêu anh bao nhiêu lần. Chỉ cần chúng ta ko ngừng tin tưởng và cố gắng, luôn nhẫn nại và hoàn thiện vì nhau, đủ can đảm và chân thành trong điệu nhảy đẹp nhất này!"</div>
+        <div class="quotes-eng">"True love is what?"</div>
+        <div class="quotes-vi">"Tình yêu đích thực là gì? Đó là điệu nhảy đẹp nhất cuộc đời bạn!"</div>
         </div>
 		</div>
 	</foreignObject>
