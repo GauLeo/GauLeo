@@ -67,7 +67,6 @@
   <br>
   <strong>📧 Hoặc Email: <a href="mailto:anhtuan01697@gmail.com" target="_top">anhtuan01697@gmail.com</a></strong>
 </p>
-<a href="https://youtu.be/63opfUkPq6k" target="_blank">
   <img src="images/Meo.jpg" width="1200" alt="Bui Anh Tuan" />
 </a>
 
